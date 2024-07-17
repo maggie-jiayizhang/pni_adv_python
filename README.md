@@ -10,6 +10,6 @@ Welcome! You can find the data and specifications you need for each week in thei
 | 2 | July 3rd  | Regression (decoders) ([slides](https://docs.google.com/presentation/d/1FCFdRH55_9uombKRCvs6yB1OLnIpsfZ9sXa9m-r5smo/edit?usp=sharing))
 | 3 | July 8th  | Principle Component Analysis (PCA) ([slides](https://docs.google.com/presentation/d/1SzsJUrXP9hjm93tZUCxeiguO_cc8n68jpA3ggO3RdYw/edit?usp=sharing))
 | 4 | July 10th | PCA cont'd (with other applications) ([slides](https://docs.google.com/presentation/d/1SzsJUrXP9hjm93tZUCxeiguO_cc8n68jpA3ggO3RdYw/edit?usp=sharing))
-| 5 | July 15th | Neural network basics
-| 6 | July 17th | Recurrent neural networks
+| 5 | July 15th | Neural network basics ([slides](https://docs.google.com/presentation/d/1JHqg-12g0ThKKa_Hv_sK462dh6tpR139FW2s6yuCbKY/edit?usp=sharing))
+| 6 | July 17th | Feedforward NN for MNIST ([slides](https://docs.google.com/presentation/d/1JHqg-12g0ThKKa_Hv_sK462dh6tpR139FW2s6yuCbKY/edit?usp=sharing))
 
